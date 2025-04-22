@@ -1,3 +1,6 @@
+CREATE DATABASE Ecommerce;
+USE Ecommerce;
+
 -- Table: brand
 CREATE TABLE brand (
     id INT PRIMARY KEY AUTO_INCREMENT,
